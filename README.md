@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vue-svg-sprite-demo
 
 ## Project setup
@@ -26,9 +25,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# vue-demo
-vue学习demo
->>>>>>> e989d0f99e3defb025b435cde64d94e8440b7a4b
+
